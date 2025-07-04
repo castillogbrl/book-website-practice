@@ -13,3 +13,5 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ![preview img](/preview.png)
+
+[This repository is being archived in order to reimplement using git, from scratch.]
